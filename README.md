@@ -1,2 +1,1 @@
-# bebro-discord-theme
-Theme for discord
+theme for discord
