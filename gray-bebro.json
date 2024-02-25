@@ -2,7 +2,7 @@
     "manifest": {
         "author": "bebro",
         "version": "1.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/altitude\/main\/themes\/low-altitude.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/b3bro\/bebro-discord-theme\/main\/gray-bebro.json",
         "license": "none",
         "name": "Minimalistic"
     },
