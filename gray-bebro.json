@@ -1,0 +1,51 @@
+{
+    "manifest": {
+        "author": "bebro",
+        "version": "1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/altitude\/main\/themes\/low-altitude.json",
+        "license": "none",
+        "name": "Minimalistic"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/JLWjYaU.jpeg"
+    },
+    "fonts": {
+        "whitney_medium": "https:\/\/github.com\/JulietaUla\/Montserrat\/raw\/master\/fonts\/ttf\/Montserrat-Regular.ttf?raw=1",
+        "ginto_regular": "https:\/\/github.com\/JulietaUla\/Montserrat\/raw\/master\/fonts\/ttf\/Montserrat-Regular.ttf?raw=1",
+        "ginto_bold": "https:\/\/github.com\/JulietaUla\/Montserrat\/raw\/master\/fonts\/ttf\/Montserrat-Bold.ttf?raw=1",
+        "whitney_bold": "https:\/\/github.com\/JulietaUla\/Montserrat\/raw\/master\/fonts\/ttf\/Montserrat-Bold.ttf?raw=1",
+        "whitney_semibold": "https:\/\/github.com\/JulietaUla\/Montserrat\/raw\/master\/fonts\/ttf\/Montserrat-SemiBold.ttf?raw=1",
+        "ginto_medium": "https:\/\/github.com\/JulietaUla\/Montserrat\/raw\/master\/fonts\/ttf\/Montserrat-SemiBold.ttf?raw=1"
+    },
+    "simple_colors": {
+        "accent": -13914766,
+        "input_background": -12698050,
+        "mention_highlight": 859585596
+    },
+    "colors": {
+        "primary_dark_200": -2829100,
+        "primary_dark_360": -8750470,
+        "primary_dark_600": -14211289,
+        "primary_dark_630": -14211289,
+        "primary_dark_700": -14211289,
+        "uikit_settings_item_text_color_light": -13684945,
+        "white_500": -1377806,
+        "primary_dark_330": -6776680,
+        "link": -2302756,
+        "link_500": -1842205,
+        "primary_dark_300": -11776948,
+        "primary_dark_400": -14211289,
+        "primary_630": -14211289,
+        "primary_660": -1378835,
+        "primary_300": -14211289,
+        "primary_dark_800": -14211289,
+        "uikit_settings_item_text_color_dark": -1250068,
+        "uikit_btn_bg_color_selector_green": -1444625,
+        "uikit_btn_bg_color_selector_red": -54742,
+        "brand_new_500": -13914766,
+        "primary_500_alpha_32": -1444627,
+        "primary_700": -13553616
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
